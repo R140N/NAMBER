@@ -1,6 +1,8 @@
-import os, sys, platform
+from ripon import main
 
-os.system('git pull')
+ripon.main()
 
-import ripon
+
+
+
 
